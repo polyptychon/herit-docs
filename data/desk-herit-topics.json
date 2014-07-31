@@ -1,0 +1,264 @@
+{
+  "total_entries": 10,
+  "page": 1,
+  "_links": {
+    "self": {
+      "href": "/api/v2/topics?page=1&per_page=50",
+      "class": "page"
+    },
+    "first": {
+      "href": "/api/v2/topics?page=1&per_page=50",
+      "class": "page"
+    },
+    "last": {
+      "href": "/api/v2/topics?page=1&per_page=50",
+      "class": "page"
+    },
+    "previous": null,
+    "next": null
+  },
+  "_embedded": {
+    "entries": [
+      {
+        "locale": "el",
+        "name": "Διαχειρίση Λογαριασμού ",
+        "description": "Θέματα διαχείρισης λογαριασμού (εγγραφή, αλλαγή κωδικού κλπ)",
+        "position": 1,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-04T12:12:12Z",
+        "updated_at": "2013-09-19T07:53:18Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/538810",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/538810/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/538810/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Γενικά θέματα ",
+        "description": "Θέματα γενικής χρήσης (πλοήγηση main menu, οθόνες λίστας κλπ)",
+        "position": 2,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-04T12:12:12Z",
+        "updated_at": "2013-11-01T13:09:47Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/538811",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/538811/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/538811/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Χρήστες",
+        "description": "Επεξήγηση ρόλων",
+        "position": 9,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-08T08:25:52Z",
+        "updated_at": "2013-08-02T14:12:39Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/539747",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/539747/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/539747/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Διαχείριση Συστήματος",
+        "description": "Διαχείρηση Admin",
+        "position": 10,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-09T07:34:49Z",
+        "updated_at": "2013-07-29T12:11:43Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/540225",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/540225/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/540225/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Συλλογή",
+        "description": "",
+        "position": 3,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-16T06:50:58Z",
+        "updated_at": "2013-11-01T13:18:49Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/543011",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/543011/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/543011/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Παραμετροποίηση Πεδίων",
+        "description": "",
+        "position": 7,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-25T10:15:34Z",
+        "updated_at": "2014-04-09T10:19:18Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/547265",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/547265/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/547265/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Διαχείριση Τύπων Αντικειμένων",
+        "description": "",
+        "position": 4,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-29T07:10:18Z",
+        "updated_at": "2013-08-02T14:09:49Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/548965",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/548965/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/548965/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Διαχείριση Τύπων Μνημείων",
+        "description": "",
+        "position": 5,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-29T07:10:47Z",
+        "updated_at": "2013-08-02T14:10:09Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/548966",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/548966/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/548966/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Διαχείριση Σειρών Αρίθμησης",
+        "description": "",
+        "position": 6,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-29T07:11:03Z",
+        "updated_at": "2013-11-01T13:14:05Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/548967",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/548967/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/548967/translations",
+            "class": "topic_translation"
+          }
+        }
+      },
+      {
+        "locale": "el",
+        "name": "Τύποι Οντοτήτων",
+        "description": "",
+        "position": 8,
+        "allow_questions": false,
+        "in_support_center": true,
+        "created_at": "2013-07-29T12:10:43Z",
+        "updated_at": "2013-08-02T14:12:13Z",
+        "_links": {
+          "self": {
+            "href": "/api/v2/topics/549060",
+            "class": "topic"
+          },
+          "articles": {
+            "href": "/api/v2/topics/549060/articles",
+            "class": "article"
+          },
+          "translations": {
+            "href": "/api/v2/topics/549060/translations",
+            "class": "topic_translation"
+          }
+        }
+      }
+    ]
+  }
+}
